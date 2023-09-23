@@ -1,3 +1,6 @@
 # Starting
-This my First Github Repository
-Author = Mian Abdullah
+This my First Github Repository.
+<br>
+For Read me fle we use basic html syntax
+<br>
+Author = Mian Abdullah.
